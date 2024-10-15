@@ -31,7 +31,7 @@ dependencies:
   permission_handler: ^11.3.1
   shared_preferences: ^2.2.3
   plugin_platform_interface: ^2.1.8
-  package_info_plus: ^8.0.2
+  package_info_plus: ^4.2.0
 
   #  1. make kotlin version >= 1.8.0, open the your_project/android/app/build.gradle file, and modify the kotlin_version to 1.8.0.
   #  2. make gradle version >= 7.0, open the your_project/android/gradle/wrapper/gradle-wrapper.properties file, and modify the distributionUrl to https\://services.gradle.org/distributions/gradle-7.0-all.zip.
