@@ -20,10 +20,8 @@ pubspec_overrides.yaml
 *.iws
 .idea/
 
-# The .vscode folder contains launch configuration and tasks you configure in
 # VS Code which you may wish to be included in version control, so this line
 # is commented out by default.
-#.vscode/
 
 # Flutter/Dart/Pub related
 **/doc/api/
@@ -70,7 +68,6 @@ ios/Podfile.lock
 **GoogleService-Info.plist
 
 # vscode
-.vscode
 todo.txt
 tips.txt
 tree.txt
@@ -78,3 +75,7 @@ release.sh
 client.txt
 
 zego-uikit-flutter.zip
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
